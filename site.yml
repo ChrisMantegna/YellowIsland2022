@@ -2,10 +2,10 @@ name: "docs"
 navbar:
   title: "Yellow Island 2022"
   right:
-    - text: "Schedule & materials"
+    - text: "Schedule & Theme"
       href: lectures.html
-    - text: "Homework"
-      href: homework.html
+    - text: "Weekly Work"
+      href: weekly.html
     - text: "Meet the Team"
       href: team.html
     - text: ""
