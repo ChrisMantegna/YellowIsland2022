@@ -1,25 +1,25 @@
 # YellowIslandDDCSP
-#### Intertidal Monitoring on Yellow Island 
 #### Notes on Data Files
-<**YellowPA .csv**>
-* **Present / Not Present will be coded**
+
+**YellowPA.csv**
+* Present / Not Present will be coded
   * 1 – Present
   * 0 – Not Present
-*	**Abundance will be coded**
-  * 1 – Rare
-  * 2 – Occasional
-  * 3 – Common
-  * 4 – Abundant
-* **Modifiers will be coded**
+*	Abundance will be coded
+   * 1 – Rare
+   * 2 – Occasional
+   * 3 – Common
+   * 4 – Abundant
+* Modifiers will be coded
   * 0.25 – Locally common
   * 0.50 – Locally abundant
-* **Zonation**
+* Zonation
   * 1 – Upper
   * 2 – Middle
   * 3 – Lower
   * 0 – Not applicable (used in the Zonation column on the abundance counts since zonation doesn’t matter here)
 
-<**Quadrat .csv**>
+**Quadrat.csv**
 * All quadrats are 0.5 x 0.5 meter squares
 * 2 quadrats were taken together sharing an interior boundary to form a 1 meter width area for sampling at recorded GPS location within the site
 3 categories for evaluation
@@ -28,7 +28,7 @@
   * % Cover Species
 
  
-<**NOTES**>
+**NOTES**
 * All quadrats require list of algae, barnacle, type along with % cover
 * All highly abundant species (i.e., Nucella) can be ‘counted’ in percentage within a specific area and then extrapolated into the full quadrat abundance
 * GPS Coordinates should be taken  at the Top Left and Bottom Right corners
