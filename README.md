@@ -6,10 +6,10 @@
   * 1 – Present
   * 0 – Not Present
 *	Abundance will be coded
-   * 1 – Rare
-   * 2 – Occasional
-   * 3 – Common
-   * 4 – Abundant
+  * 1 – Rare
+  * 2 – Occasional
+  * 3 – Common
+  * 4 – Abundant
 * Modifiers will be coded
   * 0.25 – Locally common
   * 0.50 – Locally abundant
