@@ -1,5 +1,7 @@
 # YellowIslandDDCSP
 #### Notes on Data Files
+* A second quadrat csv will be made available by 8/3 - it will be the class/ order categories vice the individual categories currently shown
+* yellowPA will separate the abundance codes into site specific groups, like the abundance scores by 8/3
 
 **YellowPA.csv**
 * Present / Not Present will be coded
