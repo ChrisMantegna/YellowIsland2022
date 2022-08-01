@@ -1,151 +1,153 @@
-Scientific_Name,Common_Name,Site_01,Site_02,Site_03,Site_04,Site_05,Site_06,Site_07,Site_08,Abundance_Score,Abundance_Code,Present_1980,Present_2004,Present_2022
-Acmaea mitra ,Whitecap limpet,1,,,,,,,,,C,1,0,
-Acrosiphonia spp.              ,Green Rope Seaweed,,,,,,,,,,,1,0,
-Agriodesma saxicola ,Wrinkled rock clam,,,,,,,,,,,0,1,
-Alaria marginata              , Winged Kelp,,,,,,,,,,,1,1,
-Amphipoda (order) ,Scuds,1,,,,,,,,,O,0,1,
-Amphissa columbiana ,Wrinkled dove snail,,,,,,,,,,,1,1,
-Analipus japonicus                 ,Sea Fir,,,,,,,,,,,1,0,
-Anthopleura elegantissima*,Aggregating anemone,,,,,,,,,,,,,
-Archidoris montereyensis ,Sea lemon,,,,,,,,,,,1,1,
-Balanus glandula ,Acorn Barnacle,1,,,,,,,,,A,1,1,
-Bittium eschrichtii ,Screw snail,,,,,,,,,,,0,1,
-Boltenia villosa ,Spiny-headed tunicate,,,,,,,,,,,0,1,
-Brachiopoda ,Lamp Shells,,,,,,,,,,,1,1,
-Calliostoma ligatum, Blue top snail,,,,,,,,,,,1,1,
-Callophyllis spp. ,"Carola, Red Sea Fan",,,,,,,,,,,1,1,
-Cancer oregonensis ,Pygmy rock crab,,,,,,,,,,,1,1,
-Cancer productus, Red rock crab,,,,,,,,,,,1,1,
-Ceratostoma foliatum ,Leafy hornmouth,,,,,,,,,,,0,1,
-Chlamys hastata ,"Spiny scallop, spear scallop",,,,,,,,,,,1,0,
-Chondrocanthus exasperata ,Turkish Towel,1,,,,,,,,,C,0,1,
-Chthamalus dalli ,Little brown barnacle ,1,,,,,,,,,C,0,1,
-Cladophora columbiana         ,Mekong Weed,,,,,,,,,,,0,1,
-Clinocardium nuttallii ,Heart cockle,,,,,,,,,,,1,1,
-Cnemidocarpa finmarkiensis ,Broad base sea squirt,,,,,,,,,,,0,1,
-Constantinea spp. ,Cup and Saucer,,,,,,,,,,,0,1,
-Coraline Custulose Algae,CCA,,,,,,,,,,,,,
-Corella willmeriana ,Icy tunicate,,,,,,,,,,,1,0,
-Costaria costata                     ,"Five-Ribbed Kelp, Seersucker Kelp",,,,,,,,,,,0,1,
-Crassostrea gigas ,Pacific oyster,1,,,,,,,,,O,0,1,
-Cryptochiton stelleri ,Gumboot chiton,,,,,,,,,,,1,0,
-Cryptopleura spp. ,,,,,,,,,,,,1,0,
-Cryptosiphonia spp. ,"Hidden Rib, Bleached Burnette",,,,,,,,,,,1,1,
-Cucumaria miniata ,Orange sea cucumber,,,,,,,,,,,1,1,
-Dermasterias imbricata ,Leather star,,,,,,,,,,,1,1,
-Desmarestia viridis            ,  Stringy Acid Kelp,,,,,,,,,,,1,0,
-Didemnum albidum ,White crust,,,,,,,,,,,0,1,
-Diodora aspera ,Rough keyhole limpet,1,,,,,,,,,C,1,1,
-Discodoris sandiegensis ,Ring-spotted dorid,,,,,,,,,,,0,1,
-Egregia menziesii          ,Feather Boa Kelp,,,,,,,,,,,1,0,
-Endocladia muricata, Turfweed ,1,,,,,,,,,O,1,1,
-Enteromorpha spp.               ,Turf Green Seaweed,,,,,,,,,,,1,1,
-Eupentacta pseudoquinquesemita*,False white sea cucumber,,,,,,,,,,,1,1,
-Eupentacta quinquesemita ,White sea cucumber,,,,,,,,,,,0,1,
-Evasterias troschelii ,Mottled star,,,,,,,,,,,1,1,
-Fucus gardneri (distichus)** ,Rockweed,,,,,,,,,,,0,1,
-Fusitriton oregonensis ,Oregon triton,,,,,,,,,,,0,1,
-Gari californica ,California sunset clam,,,,,,,,,,,0,1,
-Gloiopeltisfurcata ,"glueweed, jelly moss, fukuro-funori",,,,,,,,,,,0,1,
-Grateloupia postelsii,,,,,,,,,,,,1,1,
-Halichondria bowerbanki ,Breadcrumb Sponge,,,,,,,,,,,1,0,
-Haliotis kamtschatkana ,Northern abalone,,,,,,,,,,,1,0,
-Halosaccion glandiforme ,"Sea Sacs, Sea Grapes",,,,,,,,,,,1,0,
-Hedophyllum sessile ,Sea Cabbage,,,,,,,,,,,0,1,
-Hemigrapsus nudus ,Purple shore crab,,,,,,,,,,,1,1,
-Hemigrapsus oregonensis ,Yellow shore crab,,,,,,,,,,,1,1,
-Henricia leviuscula ,Pacific blood star,,,,,,,,,,,0,1,
-Hiatella chrysis ,Seawater clam,,,,,,,,,,,1,1,
-Hildenbrandia spp.,,,,,,,,,,,,1,0,
-Hinnites giganteus ,Giant rock scallop,,,,,,,,,,,0,1,
-Hippolytidae (family) ,Broken-back shrimp,,,,,,,,,,,0,1,
-Humilaria kennerlyi, Corrugated clam,,,,,,,,,,,0,1,
-Idotea sp.,,,,,,,,,,,,0,1,
-Idotea wosnesenskii ,Rockweed isopod,,,,,,,,,,,1,1,
-Katharina tunicata ,"Black chiton, leather chiton",,,,,,,,,,,0,1,
-Laminaria ,bongardiana,,,,,,,,,,,1,1,
-Leathesia difformis ,"Sea Cauliflower, Sea Potatoe",,,,,,,,,,,1,1,
-Lepidochitona dentiens ,Gloud's baby chiton,,,,,,,,,,,1,1,
-Leptasterias hexactis ,Six-rayed star,,,,,,,,,,,0,1,
-Leptosynapta clarki ,Clark's footless sea cucumber,,,,,,,,,,,1,0,
-Lirularia lirulata ,Pearly top shell,,,,,,,,,,,0,1,
-Littorina scutulata ,Checkered periwinkle,,,,,,,,,,,1,1,
-Littorina sitkana ,Sitka periwinkle,,,,,,,,,,,1,1,
-Lophopanopeus bellus ,Black-clawed crab,,,,,,,,,,,1,1,
-Lottia digitalis ,,1,,,,,,,,,C,1,1,
-Lottia pelta ,Shield limpet,,,,,,,,,,,1,0,
-Macoma inquinata ,,,,,,,,,,,,1,0,
-Macoma nasuta ,Bent-nosed clam,,,,,,,,,,,0,1,
-Margarites pupillus ,Puppet margarite,,,,,,,,,,,0,1,
-Mastocarpus papillatus ,Turkish Washcloth,,,,,,,,,,,0,1,
-Mazzaella splendens, Iridescent Weed,,,,,,,,,,,0,1,
-Metandrocarpa taylori ,Colonial sea squirt,,,,,,,,,,,1,1,
-Metridium senile (dianthus)** ,Short plumose anemone,,,,,,,,,,,0,1,
-Microcladia borealis ,Coarse Sea Lace,,,,,,,,,,,1,1,
-Mopalia ciliata ,Hairy chiton,,,,,,,,,,,0,1,
-Mopalia lignosa ,Woody chiton,,,,,,,,,,,0,1,
-Mopalia muscosa ,Mossy chiton,,,,,,,,,,,1,0,
-Mya arenaria ,Soft-shell clam,,,,,,,,,,,0,1,
-Mya truncata ,Blut gaper,,,,,,,,,,,1,0,
-Mytilus californianus ,California mussel,,,,,,,,,,,0,1,
-Mytilus edulis ,Blue mussel,,,,,,,,,,,0,1,
-Neoamphitrite robusta*,Robust Spaghetti-worm,,,,,,,,,,,,,
-Neorhodomela spp ,Black Pine Seaweed,,,,,,,,,,,1,1,
-Nereocystis luetkeana ,Bull Kelp,,,,,,,,,,,1,1,
-Nucella canaliculata ,Channeled dog winkle,,,,,,,,,,,0,1,
-Nucella emarginata ,Emarginate dogwinkle,,,,,,,,,,,1,1,
-Nucella lamellosa ,Frilled dogwinkle,,,,,,,,,,,1,1,
-Odonthalia floccosa ,Sea Brush,,,,,,,,,,,0,1,
-Odonthalia washingtoniensis,,,,,,,,,,,,1,1,
-Oligocottus maculosis*,Tidepool sculpin,,,,,,,,,,,1,1,
-Onchidella borealis ,Leather limpet,,,,,,,,,,,0,1,
-Ophiuroidea (class) ,Brittle star,,,,,,,,,,,1,1,
-Ophlitaspongia pennata, Velvety Red Sponge,,,,,,,,,,,0,1,
-Oregonia gracilis ,Graceful decorator crab,1,,,,,,,,,O,1,1,
-Osmundea spectablis ,Sea Laurel ,,,,,,,,,,,0,1,
-Paguridae (family) ,Right-handed hermit,,,,,,,,,,,1,0,
-Palmaria spp. ,"dulse, dillisk, dilsk ",,,,,,,,,,,1,1,
-Parastichopus californicus ,California sea cucumber,,,,,,,,,,,1,1,
-Petrolisthes spp. ,Green porcelain crab,,,,,,,,,,,0,1,
-Pholis laeta*,Crescent gunnel,1,,,,,,,,,R,1,1,
-Pisaster ochraceus ,Ochre star,,,,,,,,,,,1,1,
-Plocamium cartilagineum ,Cartilagenous Cock's Comb,,,,,,,,,,,1,1,
-Pododesmus cepio ,Pacific False Jingle,,,,,,,,,,,0,1,
-Polysiphonia spp. ,"Red turf species, filamentous species ",,,,,,,,,,,1,1,
-Porphyra spp,,,,,,,,,,,,1,1,
-Prasiola sp.,,,,,,,,,,,,0,1,
-Prionitis spp.,,,,,,,,,,,,0,1,
-Protothaca staminea ,Pacific littleneck clam,,,,,,,,,,,0,1,
-Psolus chitonoides*,Creeping pedal sea cucumber,,,,,,,,,,,1,1,
-Pterosiphonia spp. ,Red turf species ,1,,,,,,,,,O,1,1,
-Pugettia producta ,Shield back kelp crab,,,,,,,,,,,0,1,
-Pycnopodia helianthoides ,Sunflower sea star,,,,,,,,,,,0,1,
-Pyura haustor ,Wrinkled seapump,,,,,,,,,,,0,1,
-Ralfsia pacifica,,,,,,,,,,,,0,1,
-Rhamphidonta retifera ,Netted kellyclam,,,,,,,,,,,0,1,
-Rhodymenia spp.,,,,,,,,,,,,1,1,
-Rostanga pulchra, Red sponge nudibranch,,,,,,,,,,,0,1,
-Sarcodiotheca gaudichaudii,,,,,,,,,,,,1,1,
-Sargassum muticum ,Japanese Wireweed,1,,,,,,,,,A,1,1,
-Saxidomus giganteus ,Butter clam,,,,,,,,,,,0,1,
-Scytosiphon simplicissimus ,Brown Tubeweed,,,,,,,,,,,1,1,
-Searlesia dira ,Dire whelk,,,,,,,,,,,1,1,
-Semibalanus cariosus ,Thatched barnacle,,,,,,,,,,,1,0,
-Serpula columbiana*,Red-trumpet calcareous tubeworm,,,,,,,,,,,,,
-Sipuncula Sipunculid,Peanut worms,,,,,,,,,,,1,1,
-Soranthera ulvoidea ,Studded Sea Balloon,,,,,,,,,,,1,1,
-Strongylocentrotus droebachiensis ,Green sea urchin,,,,,,,,,,,1,1,
-Strongylocentrotus franciscanus ,Giant red sea urchin,,,,,,,,,,,0,1,
-Tectura scutum ,Plate limpet,,,,,,,,,,,1,1,
-Telmessus cheiragonus ,Helmet crab,,,,,,,,,,,1,1,
-Tonicella lineata ,Lined chiton,,,,,,,,,,,0,1,
-Tresus capax ,Fat gaper,,,,,,,,,,,1,1,
-Tubulanus polymorphus ,Ribbon worm,,,,,,,,,,,0,1,
-Ulva spp.                                    , Sea Lettuce,,,,,,,,,,,,,
-Urticina coriacea ,Red bead anemone,,,,,,,,,,,,,
-Urticina crassiornis ,Mottled anemone,,,,,,,,,,,,,
-Urticina sp. ,Fish-eating anemone,,,,,,,,,,,,,
-Xiphister atropurpureus* ,Black prickleback,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-*Added in 2022,,,,,,,,,,,,,,
-** Name adjustment,,,,,,,,,,,,,,
+Scientific_Name,Common_Name,Site_01,Abundance_Score_01,Site_02,Abundance_Score_02,Site_03,Abundance_Score_03,Site_04,Abundance_Score_04,Site_05,Abundance_Score_05,Site_06,Abundance_Score_06,Site_07,Abundance_Score_07,Site_08,Abundance_Score_08,Abundance_Score_AVG,Abundance_Code_andSite,Present_1980,Present_2004,Present_2022
+Acmaea mitra ,Whitecap limpet,1,3,1,2,0,0,0,0,0,0,1,3,0,0,0,0,,,1,0,1
+Acrosiphonia spp.              ,Green Rope Seaweed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0
+Agriodesma saxicola ,Wrinkled rock clam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0
+Alaria marginata              ," Winged Kelp, Bladderlocks",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0
+Amphipoda (order) ,Scuds,1,3,0,3,1,3,1,3,1,3,1,3,1,3,1,0,,,0,1,1
+Amphissa columbiana ,Wrinkled dove snail,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,,,1,1,1
+Analipus japonicus                 ,Sea Fir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0
+Anthopleura elegantissima*,Aggregating anemone,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,,,0,0,1
+Archidoris montereyensis ,Sea lemon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0
+Balanus glandula ,Acorn Barnacle,1,4,1,4,1,4,0,4,1,4,1,1,4,1,4,1,,,1,1,1
+Batillaria attramentaria*,Mudflat Snail,1,2,1,2,1,2,1,2,1,2,1,2,1,1,1,1,,,0,0,1
+Bittium eschrichtii (neostylidium)**,Screw snail,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,,,0,1,1
+Boltenia villosa ,Spiny-headed tunicate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0
+Brachiopoda ,Lamp Shells,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,0
+Calliostoma ligatum, Blue top snail,0,0,0,,0,,0,,0,,0,,,,,,,,1,1,
+Callophyllis spp. ,"Carola, Red Sea Fan",0,0,0,,0,,0,,0,,0,,,,,,,,1,1,
+Cancer oregonensis ,Pygmy rock crab,0,0,0,,0,,0,,0,,0,,,,,,,,1,1,
+Cancer productus, Red rock crab,0,0,1,,1,,0,,0,,0,,,,,,,"R-2, R-3",1,1,1
+Ceratostoma foliatum ,Leafy hornmouth,0,0,0,,0,,0,,0,,0,,,,,,,,0,1,
+Chlamys hastata ,"Spiny scallop, spear scallop",0,0,0,,0,,0,,0,,1,,,,,,,R-6,1,0,
+Chondrocanthus exasperata ,Turkish Towel,1,,0,,0,,0,,0,,1,,,,,,,"C-1, C-6",0,1,1
+Chthamalus dalli ,Little brown barnacle ,1,,1,,0,,0,,1,,0,,,,,,,"C-1, A-2, A-5",0,1,
+Cladophora columbiana         ,Mekong Weed,0,0,0,,0,,0,,0,,0,,,,,,,,0,1,
+Clinocardium nuttallii ,Heart cockle,0,0,0,,0,,0,,0,,0,,,,,,,,1,1,
+Cnemidocarpa finmarkiensis ,Broad base sea squirt,1,,0,,0,,0,,0,,1,,,,,,,"R-1, R-6",0,1,1
+Constantinea spp. ,Cup and Saucer,0,0,0,,0,,0,,0,,0,,,,,,,,0,1,0
+Coraline Crustulose Algae,CCA,1,,0,,0,,0,,0,,1,,,,,,,"O-1, O-6",0,0,1
+Corella willmeriana ,Icy tunicate,0,0,0,,0,,0,,0,,0,,,,,,,,1,0,
+Costaria costata                     ,"Five-Ribbed Kelp, Seersucker Kelp",0,0,0,,0,,0,,0,,0,,,,,,,,0,1,
+Crassostrea gigas ,Pacific oyster,1,,1,,1,,1,,1,,1,,,,,,,"O-1, LC-2, LC-3, LC-4, O-5, O-6",0,1,1
+Cryptochiton stelleri ,Gumboot chiton,0,0,0,,0,,0,,0,,0,,0,,0,,,NA,1,0,0
+Cryptopleura spp. ,Hidden Rib,0,0,0,,0,,0,,0,,0,,0,,0,,,NA,1,0,0
+Cryptosiphonia spp. ,Bleached Burnette,0,0,0,,0,,0,,0,,0,,0,,0,,,NA,1,1,0
+Cucumaria miniata ,Orange sea cucumber,1,,1,,1,,0,,1,,1,,,,,,,"C-1, C-2, O-3, O-5",1,1,1
+Dermasterias imbricata ,Leather star,1,,0,,1,,0,,0,,1,,,,,,,"R-1, R-3",1,1,1
+Desmarestia viridis            ,Stringy Acid Kelp,0,0,0,,0,,0,,0,,0,,,,,,,,1,0,
+Didemnum albidum ,White crust,0,0,1,,0,,0,,0,,1,,,,,,,O-2,0,1,1
+Diodora aspera ,Rough keyhole limpet,1,,1,,0,,0,,0,,1,,,,,,,"C-1, C-2",1,1,1
+Discodoris sandiegensis ,Ring-spotted dorid,0,0,0,,0,,0,,0,,0,,,,,,,,0,1,
+Egregia menziesii          ,Feather Boa Kelp,0,0,0,,0,,0,,0,,0,,,,,,,,1,0,
+Endocladia muricata, Turfweed ,1,,1,,1,,1,,1,,1,,,,,,,"O-1,O-2, O-3, A-4, O-5",1,1,1
+Enteromorpha spp.               ,Turf Green Seaweed,0,0,1,,1,,1,,0,,1,,,,,,,"C-1, O-3, A-4",1,1,1
+Eupentacta pseudoquinquesemita*,False white sea cucumber,0,0,0,,0,,0,,0,,1,,,,,,,,1,1,
+Eupentacta quinquesemita ,White sea cucumber,0,0,0,,0,,0,,0,,0,,,,,,,,0,1,
+Evasterias troschelii ,Mottled star,1,,0,,1,,1,,0,,1,,,,,,,"R-1, R-3, R-4",1,1,1
+Fucus gardneri (distichus)** ,Rockweed,1,,1,,1,,1,,1,,1,,,,,,,"A-1, A-2, A-3, A-4, A-5",0,1,1
+Fusitriton oregonensis ,Oregon triton,0,,0,,0,,0,,0,,0,,,,,,,,0,1,
+Gari californica ,California sunset clam,0,,1,,0,,0,,0,,0,,,,,,,R-2,0,1,1
+Gloiopeltisfurcata ,"glueweed, jelly moss, fukuro-funori",0,,0,,0,,0,,0,,0,,,,,,,,0,1,
+Grateloupia postelsii,,0,,0,,0,,0,,0,,0,,,,,,,,1,1,
+Halichondria bowerbanki ,Breadcrumb Sponge,0,,0,,0,,0,,0,,0,,,,,,,,1,0,
+Haliotis kamtschatkana ,Northern abalone,0,,0,,0,,0,,0,,0,,0,,0,,,,1,0,0
+Halosaccion glandiforme ,"Sea Sacs, Sea Grapes",0,,0,,1,,0,,0,,1,,,,,,,R-3,1,0,1
+Hedophyllum sessile ,Sea Cabbage,0,,0,,0,,0,,1,,1,,,,,,,C-5,0,1,1
+Hemigrapsus nudus ,Purple shore crab,1,,1,,1,,1,,1,,1,,,,,,,c-all,1,1,1
+Hemigrapsus oregonensis ,Yellow shore crab,1,,0,,1,,0,,0,,1,,,,,,,"C-1, LC-3",1,1,1
+Henricia leviuscula ,Pacific blood star,1,,0,,0,,0,,0,,1,,,,,,,R-1,0,1,1
+Hiatella chrysis ,Seawater clam,0,,0,,0,,0,,0,,0,,,,,,,,1,1,
+Hildenbrandia spp.,red ralfsia' in appearance,0,,0,,0,,0,,0,,,,,,,,,,1,0,
+Hinnites giganteus ,Giant rock scallop,0,,0,,0,,0,,0,,1,,,,,,,,0,1,
+Hippolytidae (family) ,Broken-back shrimp,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Humilaria kennerlyi, Corrugated clam,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Idotea sp.,Isopod,1,,1,,0,,0,,0,,1,,,,,,,"O-1, O-2",0,1,1
+Idotea wosnesenskii ,Rockweed isopod,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Katharina tunicata ,"Black chiton, leather chiton",1,,1,,1,,0,,1,,,,,,,,,"O-1, R-2, R-3, R-5",0,1,1
+Laminaria ,bongardiana,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Leathesia difformis ,"Sea Cauliflower, Sea Potatoe",0,,1,,1,,0,,1,,1,,,,,,,"O-1, R-3, R-5",1,1,1
+Lepidochitona dentiens ,Gloud's baby chiton,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Leptasterias hexactis ,Six-rayed star,1,,1,,1,,0,,1,,1,,,,,,,"O-1, O-2, O-3, O-5",0,1,1
+Leptosynapta clarki ,Clark's footless sea cucumber,0,,0,,1,,0,,0,,,,,,,,,R-3,1,0,1
+Lirularia lirulata ,Pearly top shell,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Littorina scutulata ,Checkered periwinkle,1,,0,,0,,0,,0,,,,,,,,,C-1,1,1,1
+Littorina sitkana ,Sitka periwinkle,1,3,0,0,0,0,0,0,0,0,1,3,1,2,1,2,,,1,1,1
+Lophopanopeus bellus ,Black-clawed crab,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,1,
+Lottia digitalis ,Ribbed limpet,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,,,1,1,1
+Lottia pelta ,Shield limpet,1,3,1,3,1,2,1,2,1,2,1,3,1,3,1,3,,,1,0,1
+Macoma inquinata ,clam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,1,0,0
+Macoma nasuta ,Bent-nosed clam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,0,1,0
+Margarites pupillus ,Puppet margarite,1,2,0,0,0,0,0,0,1,2,1,2,1,2,1,2,,,0,1,
+Mastocarpus papillatus ,Turkish Washcloth,1,2,1,2,1,2,1,2,0,0,1,2,1,2,1,2,,,0,1,1
+Mazzaella splendens, Iridescent Weed,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,,,0,1,
+Metandrocarpa taylori ,Colonial sea squirt,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,1,1,1
+Metridium senile (dianthus)** ,Short plumose anemone,1,,0,,1,,0,,0,,1,,,,,,,R-3,0,1,1
+Microcladia borealis ,Coarse Sea Lace,0,,0,,1,,0,,0,,1,,,,,,,"C-1, O-3",1,1,1
+Mopalia ciliata ,Hairy chiton,1,,1,,1,,0,,0,,1,,,,,,,"O-2, O-3",0,1,1
+Mopalia lignosa ,Woody chiton,0,,1,,0,,0,,1,,,,,,,,,"O-2, O-5",0,1,1
+Mopalia muscosa ,Mossy chiton,1,,1,,1,,0,,1,,1,,,,,,,"O-1, O-2, O-3, C-5",1,0,1
+Mya arenaria ,Soft-shell clam,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Mya truncata ,Blut gaper,0,,0,,0,,0,,0,,,,,,,,,,1,0,
+Mytilus californianus ,California mussel,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Mytilus edulis ,Blue mussel,0,,1,,0,,1,,1,,1,,,,,,,"LC-2, O-4, C-5",0,1,1
+Neoamphitrite robusta*,Robust Spaghetti-worm,1,,0,,1,,1,,0,,1,,,,,,,"R-1, R-3, R-4",0,0,1
+Neorhodomela spp ,Black Pine Seaweed,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Nereocystis luetkeana ,Bull Kelp,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Nucella canaliculata ,Channeled dog winkle,1,,1,,1,,1,,0,,1,,,,,,,"A-1, A-2, O-3, A-4",0,1,1
+Nucella emarginata ,Emarginate dogwinkle,1,,1,,1,,1,,1,,1,,,,,,,"A-1, A-2, A-3, A-4, A-5",1,1,1
+Nucella lamellosa ,Frilled dogwinkle,1,,1,,1,,1,,0,,1,,,,,,,"A-1, A-2, O-3, A-4",1,1,1
+Odonthalia floccosa ,Sea Brush,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Odonthalia washingtoniensis,,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Oligocottus maculosis*,Tidepool sculpin,1,,0,,0,,1,,0,,1,,,,,,,"R-1, LC-4",1,1,1
+Onchidella borealis ,Leather limpet,1,,1,,0,,1,,0,,,,,,,,,"O-1, O-2, O-4",0,1,1
+Ophiuroidea (class) ,Brittle star,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Ophlitaspongia pennata, Velvety Red Sponge,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Oregonia gracilis ,Graceful decorator crab,1,,0,,0,,0,,1,,,,,,,,,"O-1, R-1",1,1,1
+Osmundea spectablis ,Sea Laurel ,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Paguridae (family) ,Right-handed hermit,1,,1,,1,,0,,0,,1,,,,,,,"O-1, C-2, O-3",1,0,1
+Palmaria spp. ,"dulse, dillisk, dilsk ",0,,1,,0,,0,,0,,,,,,,,,O-2,1,1,1
+Parastichopus californicus ,California sea cucumber,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Petrolisthes spp. ,Green porcelain crab,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Pholis laeta*,Crescent gunnel,1,,0,,0,,0,,0,,,,,,,,,R-1,1,1,1
+Pholis ornata*,Saddleback gunnel,0,,0,,1,,0,,0,,,,,,,,,R-3,0,0,1
+Pisaster ochraceus ,Ochre star,1,,1,,0,,0,,1,,,,,,,,,"R-1, R-2, R-5",1,1,1
+Plocamium cartilagineum ,Cartilagenous Cock's Comb,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Pododesmus cepio ,Pacific False Jingle,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Polysiphonia spp. ,"Red turf species, filamentous species ",0,,1,,0,,0,,0,,,,,,,,,O-2,1,1,1
+Porphyra spp,,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Prasiola sp.,,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Prionitis spp.,,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Protothaca staminea ,Pacific littleneck clam,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Psolus chitonoides*,Creeping pedal sea cucumber,0,,0,,0,,0,,0,,1,,,,,,,R-6,1,1,1
+Pterosiphonia spp. ,Red turf species ,1,,0,,0,,0,,0,,,,,,,,,O-1,1,1,1
+Pugettia producta ,Shield back kelp crab,0,,0,,1,,0,,0,,1,,,,,,,0-3,0,1,1
+Pycnopodia helianthoides ,Sunflower sea star,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Pyura haustor ,Wrinkled seapump,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Ralfsia pacifica,,0,,1,,1,,0,,1,,1,,,,,,,"LC-1, O-3, O-5",0,1,1
+Rhamphidonta retifera ,Netted kellyclam,0,,0,,0,,0,,0,,,,,,,,,,0,1,
+Rhodymenia spp.,,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Rostanga pulchra, Red sponge nudibranch,0,,0,,0,,0,,1,,,,,,,,,R-5,0,1,1
+Sarcodiotheca gaudichaudii,,0,,0,,0,,0,,0,,,,,,,,,,1,1,
+Sargassum muticum ,Japanese Wireweed,1,,0,,0,,0,,0,,1,,1,,1,,,A-1,1,1,1
+Saxidomus giganteus ,Butter clam,0,,0,,0,,0,,0,,0,,0,,0,,,,0,1,
+Scytosiphon simplicissimus ,Brown Tubeweed,0,,0,,0,,0,,0,,0,,0,,0,,,,1,1,
+Searlesia dira ,Dire whelk,1,,1,,1,,1,,0,,1,,1,,0,,,"O-1, O-2, O-3, O-4",1,1,1
+Semibalanus cariosus ,Thatched barnacle,0,,1,,1,,1,,1,,1,,1,,1,,,"A-2, A-3, A-4, A-5",1,0,1
+Serpula columbiana*,Red-trumpet calcareous tubeworm,1,,0,,1,,0,,0,,1,,1,,1,,,"R-1, C-3",0,0,1
+Sipuncula Sipunculid,Peanut worms,0,,0,,0,,0,,0,,0,,0,,0,,,,1,1,
+Soranthera ulvoidea ,Studded Sea Balloon,0,,0,,0,,0,,0,,0,,0,,0,,,,1,1,
+Strongylocentrotus droebachiensis ,Green sea urchin,1,,1,,1,,0,,1,,1,,1,,1,,,"O-1, O-2, LC-3, O-5",1,1,1
+Strongylocentrotus franciscanus ,Giant red sea urchin,0,,0,,0,,0,,0,,0,,0,,0,,,,0,1,
+Tectura scutum ,Plate limpet,0,,1,,0,,0,,0,,1,,1,,1,,,O-2,1,1,1
+Telmessus cheiragonus ,Helmet crab,0,,0,,0,,0,,0,,0,,0,,0,,,,1,1,
+Tonicella lineata ,Lined chiton,0,,1,,0,,0,,0,,1,,0,,0,,,O-2,0,1,1
+Tresus capax ,Fat gaper,0,,0,,0,,0,,0,,0,,0,,0,,,,1,1,
+Tubulanus polymorphus ,Ribbon worm,0,,0,,0,,0,,0,,0,,0,,0,,,,0,1,
+Ulva spp.                                    , Sea Lettuce,1,,1,,1,,1,,1,,1,,1,,1,,,"C-1, C-2, A-3, A-4, C-5",1,1,1
+Urticina coriacea ,Red bead anemone,0,,0,,0,,0,,0,,0,,0,,0,,,,1,1,
+Urticina crassiornis ,Painted anemone,1,,1,,0,,1,,0,,1,,0,,0,,,"R-1, R-2, R-4",1,0,1
+Urticina sp. ,Fish-eating anemone,1,,0,,1,,0,,0,,0,,0,,0,,,"R-1, R-3",0,1,1
+Xiphister atropurpureus* ,Black prickleback,1,,0,,0,,0,,0,,0,,0,,0,,,R-1,0,0,1
+,,,,,,,,,,,,,,,,,,,,,,
+*Added in 2022,,,,,,,,,,,,,,,,,,,,,,
+** Name adjustment,,,,,,,,,,,,,,,,,,,,,,
