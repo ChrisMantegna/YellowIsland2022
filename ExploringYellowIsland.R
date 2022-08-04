@@ -31,12 +31,13 @@ View(Species)
 # QUESTION: Does the percent coverage for each quadrat sum to 100% for Substrate?
 # I want a vector of the site numbers (to use for plotting)
 sites <- as.numeric(counts[-c(1,2),which(counts[2,]=="Site")])
+sites
 
 # This code creates a barplot and legend to answer my question!
 barplot(height=t(as.matrix(Substrate[3:16,])),
         names.arg=sites,
         main="Substrate",
-        ylab="Percente Coverage",
+        ylab="Percent Coverage",
         xlab="Sites (Quadrat 1 and Quadrat 2)",
         ylim=c(0,150),
         col=c("gray10", "gray50", "gray90"))
@@ -44,6 +45,20 @@ barplot(height=t(as.matrix(Substrate[3:16,])),
 legend(x="topright",
        legend=as.character(Substrate[2,]),
        fill=c("gray10", "gray50", "gray90"))
+
+# Can we make a stacked barplot() with all species?
+
+barplot(height=t(as.matrix(Species[3:16,])),
+        names.arg=sites,
+        main="Species Counts",
+        ylab="Counts",
+        xlab="Sites",
+        col=1:24
+        )
+
+legend(x="topright",
+       legend=as.character(SpeciesNames),
+       fill=1:24)
 
 # QUESTION: How many limpets were seen across sites?
 
@@ -56,6 +71,9 @@ barplot(height=t(limpet),
         ylab="Counts")
 
 # QUESTION: How many of EACH species were seen across sites?
+SpeciesNames <- as.character(Species[2,])
+
+# par(mfrow=c(6,4))
 
 for(s in 1:ncol(Species)) {
   
@@ -70,6 +88,8 @@ for(s in 1:ncol(Species)) {
 
 #### Yellow Island Presence-absence Data
 # For this data, I'm going to use some special libraries
+install.packages("ggplot2")
+install.packages("reshape2")
 library(ggplot2)
 library(reshape2)
 
@@ -93,7 +113,7 @@ PAdata2 <- cbind(yellowPA[1:149,1],part1[,-1],part2[,-1])
 colnames(PAdata2) <- c("Scientific_Name", "Site", "PA", "Score_Site", "Score")
 
 # This is my very first time trying this type of plot! 
-# This is using the ggplot2 philsophy for coding plots
+# This is using the ggplot2 philosophy for coding plots
 
 ggplot(PAdata2, aes(Site, Scientific_Name, fill=Score, alpha=PA)) + 
   geom_tile(colour = "gray50") +
