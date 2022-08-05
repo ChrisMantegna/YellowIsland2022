@@ -1,6 +1,8 @@
 Quadrat Data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,GPS Coordnates,,Substrate,,,Species,,,,,,,,,,,,,,,,,,Species,,,,,Percent
 Site,QuadratNumber,Zonation,Latitude,Longitude,Algae,BareRock,Barnacle,Hermit_Crab,Limpet,Brittle_Star,Leptasterias_spp,Evasterias_spp,Worms_unk,Tubeworm,Kelp_Crab,Hemigrapsis_spp,Porcelain_Crab,Rock_Crab,Mytilus_spp,Clam,Pacific_Oyster,Rock_Scallop,Mossy_Chiton,Hairy_Chiton,Lined_Chiton,Green_Urchin,Amphipod,Sea_Cucumbers,Bittium_spp,Pink_Sponge,Nucella_spp
+1,1,3,,,75,0,25,1,16,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,2,7,0,3,0,0.75
+1,2,2,,,25,50,25,0,11,0,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0.5
 2,1,3,-123.0303,48.5931,75,25,0,3,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3
 2,2,3,,,100,25,0,2,9,0,0,0,0,0,2,0,0,0,4,0,0,0,2,2,0,0,0,0,0,2,0
 3,1,2,123.0342,48.5922,100,0,0,3,19,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,20,0,0.75
